@@ -15,7 +15,7 @@ NEXON Open API를 활용한, 메이플스토리 캐릭터 기반의 오픈 채�
 - Language: TypeScript
 - BE: Nest.js
 - FE: React
-- DB: MySQL, MongoDB
+- DB: MySQL, MongoDB Atlas
 - IDE: Cursor
 - Infra: Oracle Cloud, Nginx
 
