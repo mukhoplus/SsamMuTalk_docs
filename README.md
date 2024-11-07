@@ -19,7 +19,7 @@ NEXON Open API를 활용한, 메이플스토리 캐릭터 기반의 오픈 채�
 - IDE: Cursor
 - Infra: Oracle Cloud, Nginx
 
-![language](https://github.com/user-attachments/assets/07d4aa3e-1f88-4885-9112-f3b354e6e0d3)
+![language](https://github.com/user-attachments/assets/c7ab38f9-8510-4527-bdf1-81332a1bac12)
 
 ## 화면
 
