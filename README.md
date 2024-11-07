@@ -17,7 +17,9 @@ NEXON Open API를 활용한, 메이플스토리 캐릭터 기반의 오픈 채�
 - FE: React
 - DB: MySQL, MongoDB
 - IDE: Cursor
-- Infra: OCI(예정)
+- Infra: Oracle Cloud, Nginx
+
+![language](https://github.com/user-attachments/assets/07d4aa3e-1f88-4885-9112-f3b354e6e0d3)
 
 ## 화면
 
@@ -35,7 +37,11 @@ NEXON Open API를 활용한, 메이플스토리 캐릭터 기반의 오픈 채�
 
 ### 채팅
 
-`구현중`
+`이미지 제작 중`
+
+### 접속자 목록
+
+`이미지 제작 중`
 
 ## 구현 요소
 
@@ -67,4 +73,4 @@ NEXON Open API를 활용한, 메이플스토리 캐릭터 기반의 오픈 채�
 ## 기간
 
 - BE: 2024-08-21 ~ 2024-08-28
-- FE: 2024-11-05 ~ 
+- FE: 2024-11-05 ~ 2024-11-07
