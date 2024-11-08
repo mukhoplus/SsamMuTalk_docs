@@ -18,6 +18,7 @@ NEXON Open API를 활용한, 메이플스토리 캐릭터 기반의 오픈 채�
 - DB: MySQL, MongoDB Atlas
 - IDE: Cursor
 - Infra: Oracle Cloud, Nginx
+- DevOps: Docker, Jenkins
 
 ![language](https://github.com/user-attachments/assets/c7ab38f9-8510-4527-bdf1-81332a1bac12)
 
