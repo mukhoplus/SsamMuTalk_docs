@@ -38,11 +38,12 @@ NEXON Open API를 활용한, 메이플스토리 캐릭터 기반의 오픈 채�
 
 ### 채팅
 
-`이미지 제작 중`
+![chatting](https://github.com/user-attachments/assets/0ef82384-8675-4095-bacc-009b22f5b12d)
 
 ### 접속자 목록
 
-`이미지 제작 중`
+![list](https://github.com/user-attachments/assets/1cc07385-9eae-4155-ac02-721f19efa6d1)
+
 
 ## 구현 요소
 
@@ -70,6 +71,10 @@ NEXON Open API를 활용한, 메이플스토리 캐릭터 기반의 오픈 채�
 - 스크립트 작성 후, 제공받은 코드에 대한 수정
   - 여기서 기존 과정에 비해 압도적인 시간 절약 경험
 - 이후, 세부적인 내용은 직접 개발 및 수정
+
+### 모바일 친화적 레이아웃 적용
+
+- UI 구현의 난이도를 낮춤과 동시에 추후 웹뷰 도입의 가능성 확보
 
 ## 기간
 
